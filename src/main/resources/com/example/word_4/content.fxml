@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="800.0" style="-fx-background-color: #2E3348;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.ContentController">
+    <children>
+        <AnchorPane layoutY="90.0" prefHeight="410.0" prefWidth="800.0" style="-fx-background-color: #fafafa;">
+         <children>
+            <Label alignment="CENTER" layoutX="242.0" layoutY="20.0" prefHeight="41.0" prefWidth="317.0" text="Содержание/Content">
+               <font>
+                  <Font name="Lucida Console" size="22.0" />
+               </font>
+            </Label>
+            <Button fx:id="lessonButton_1" layoutX="89.0" layoutY="78.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 1">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_2" layoutX="89.0" layoutY="112.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 2">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_3" layoutX="89.0" layoutY="146.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 3">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_4" layoutX="89.0" layoutY="180.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 4">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_5" layoutX="89.0" layoutY="214.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 5">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_6" layoutX="89.0" layoutY="248.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 6">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_7" layoutX="89.0" layoutY="282.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 7">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_8" layoutX="89.0" layoutY="316.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 8">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_9" layoutX="89.0" layoutY="350.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 9">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_10" layoutX="311.0" layoutY="78.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 10">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_11" layoutX="311.0" layoutY="112.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 11">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_12" layoutX="311.0" layoutY="146.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 12">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_13" layoutX="311.0" layoutY="180.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 13">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_14" layoutX="311.0" layoutY="214.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 14">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_15" layoutX="311.0" layoutY="248.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 15">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_16" layoutX="311.0" layoutY="282.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 16">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_17" layoutX="311.0" layoutY="316.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 17">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_18" layoutX="311.0" layoutY="350.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 18">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_19" layoutX="533.0" layoutY="78.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 19">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_20" layoutX="533.0" layoutY="112.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 20">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_21" layoutX="533.0" layoutY="146.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 21">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_22" layoutX="533.0" layoutY="180.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 22">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_23" layoutX="533.0" layoutY="214.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 23">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_24" layoutX="533.0" layoutY="248.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 24">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_25" layoutX="533.0" layoutY="282.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 25">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="lessonButton_26" layoutX="533.0" layoutY="316.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Lesson 26">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="dictionaryButton" layoutX="533.0" layoutY="350.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="179.0" style="-fx-background-color: #fafafa;" text="Dictionary">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+         </children>
+        </AnchorPane>
+      <Label layoutX="155.0" layoutY="25.0" prefHeight="41.0" prefWidth="490.0" text="Самоучитель английского языка. Слова" textFill="WHITE">
+         <font>
+            <Font name="Lucida Console" size="22.0" />
+         </font>
+      </Label>
+    </children>
+</AnchorPane>
